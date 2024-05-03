@@ -1,0 +1,27 @@
+{
+  "单人单题": {
+    "icon": "i-mdi-tray-minus",
+    "questions": 1,
+    "users": 1
+  },
+  "单人多题": {
+    "icon": "i-mdi-tray-full",
+    "questions": 5,
+    "users": 1
+  },
+  "双人单题匹配": {
+    "icon": "i-mdi-radio-tower",
+    "questions": 1,
+    "users": 2
+  },
+  "双人多题匹配": {
+    "icon": "i-mdi-radio-tower",
+    "questions": 5,
+    "users": 2
+  },
+  "多人多题匹配": {
+    "icon": "i-mdi-human-capacity-increase",
+    "questions": 12,
+    "users": 4
+  }
+}
